@@ -1,10 +1,10 @@
 {
-    "name": "hanson/foundation-sdk",
+    "name": "hzz/basic-sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "HanSon",
-            "email": "h@hanc.cc"
+            "name": "DexterHo(HeZhiZheng)",
+            "email": "dexter.ho.cn@gmail.com"
         }
     ],
     "require": {
